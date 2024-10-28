@@ -5,3 +5,9 @@ color: rgb(51, 131, 131);
 h3{
     text-align: center;
 }
+a{
+    color: antiquewhite;
+}
+header{
+    background-color: rgb(70, 44, 14);
+}
