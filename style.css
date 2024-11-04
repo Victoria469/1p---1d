@@ -4,13 +4,25 @@ color: rgb(51, 131, 131);
 }
 h3{
     text-align: center;
+    margin: 100;
 }
 a{
     color: antiquewhite;
 }
 header{
-    background-color: rgb(70, 44, 14);
+    background-color: rgb(194, 192, 190);
+     margin: 0;
+     padding: 0;
+     color: blueviolet;
+     text-align: center;
+
 }
+
+
  .primeiro-titulo{
     color: blueviolet;
- }
+ text-align: center;
+background-color: blue;
+margin: 100;
+padding: 18;
+}
