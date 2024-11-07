@@ -8,6 +8,9 @@ h3{
 }
 a{
     color: antiquewhite;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 24px;
 }
 header{
     background-color: rgb(194, 192, 190);
@@ -15,8 +18,10 @@ header{
      padding: 0;
      color: blueviolet;
      text-align: center;
-
-}
+     display: flex;
+     justify-content: space-between;
+     align-items: center; 
+    }
 
 
  .primeiro-titulo{
@@ -25,4 +30,8 @@ header{
 background-color: blue;
 margin: 100;
 padding: 18;
+}
+a:hover{
+    color: bisque;
+    text-decoration: underline;
 }
